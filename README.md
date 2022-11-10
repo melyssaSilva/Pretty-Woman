@@ -10,4 +10,5 @@
 
 <h3><li> Diagrama de contexto </li></h3>
 <p> O diagrama de contexto retrata o contexto em que o software está inserido, ou seja, quem irá utilizá-lo e com quais outros softwares interage. </p>
+<img src="c4_context.png" width=500px alt="Diagrama de contexto Pretty Woman">
 
