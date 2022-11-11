@@ -10,5 +10,9 @@
 
 <h3><li> Diagrama de contexto </li></h3>
 <p> O diagrama de contexto retrata o contexto em que o software está inserido, ou seja, quem irá utilizá-lo e com quais outros softwares interage. </p>
-<img src="c4_context.png" width=500px alt="Diagrama de contexto Pretty Woman">
+<img src="c4_context.png" width=500px>
+
+<h3><li> Diagrama de container </li></h3>
+<p> O diagrama de container representa a arquitetura do projeto, exibindo quais são as tecnologias utilizadas e como elas se comunicam. </p>
+<img src="c4_container.png" width=500px>
 
