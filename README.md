@@ -16,3 +16,9 @@
 <p> O diagrama de container representa a arquitetura do projeto, exibindo quais são as tecnologias utilizadas e como elas se comunicam. </p>
 <img src="c4_container.png" width=500px>
 
+<h3> Continua... </h3>
+
+<h3> Integrantes </h3>
+<li> Ana Jéssica de Goes Jorge </li>
+<li> Leonardo Vietro </li>
+<li> Melyssa Ferreira da Silva </li>
