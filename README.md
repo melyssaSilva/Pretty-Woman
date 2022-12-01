@@ -1,24 +1,73 @@
-<h1 align="center"> Pretty Woman </h1>
+<div align="center">
 
-<h2> Sobre </h2>
-<p> Com o intuito de facilitar e aprimorar o cotidiano dos usuários envolvidos em uma loja de roupas, o sistema Pretty Woman envolve todas as necessidades em um só lugar e de maneira digital. o sistema pretende realizar tarefas como controle de estoque, gerenciamento de produtos e gerenciamento de clientes de maneira rápida e eficiente. </p>
+# Sistema para gerenciamento de loja de roupas femininas
+<img src="https://i.imgur.com/6CnO0ZE.png">
+</div>
 
-<h2> C4 Model </h2>
-<p> O modelo C4 foi é um conjunto de diagramas baseado em camadas, estabelecido para descrever a arquitetura de um software em diferentes níveis de abstração e detalhes </p>
-<p> Como o próprio nome diz, são 4 modelos diferentes de diagramas: diagrama de contexto, container, componentes e código. </p>
-<p> A seguir, os diagramas do projeto Pretty Woman. </p>
+<section id="Integrantes">
 
-<h3><li> Diagrama de contexto </li></h3>
-<p> O diagrama de contexto retrata o contexto em que o software está inserido, ou seja, quem irá utilizá-lo e com quais outros softwares interage. </p>
-<img src="c4_context.png" width=500px>
+## • 👨‍🎓Integrantes
+Melyssa Ferreira da Silva - CP3011721
+<br>
+Ana Jéssica de Goes Jorge - CP3011682
+<br>
+Leonardo de Vietro - CP3020223
 
-<h3><li> Diagrama de container </li></h3>
-<p> O diagrama de container representa a arquitetura do projeto, exibindo quais são as tecnologias utilizadas e como elas se comunicam. </p>
-<img src="c4_container.png" width=500px>
+</section>
 
-<h3> Continua... </h3>
+<section id="Descrição">
 
-<h3> Integrantes </h3>
-<li> Ana Jéssica de Goes Jorge </li>
-<li> Leonardo Vietro </li>
-<li> Melyssa Ferreira da Silva </li>
+## • 📝 Descrição do projeto
+Sistema desenvolvido com o objetivo de fornecer um sistema gerenciador para gerentes
+e vendedores de roupas femininas. O projeto foi desenvolvido seguindo o padrão MVC com
+o factory para criação de objetos e o strategy para encapsular os algoritmos ou mudança de estados
+visualização realizada em JavaFX e banco de dados baseado em MySQL.
+
+ </section>
+
+<section id="Diagramas">
+
+## • 📊 Diagramas
+### • Diagrama de caso de uso
+<img src="https://i.imgur.com/FXr0uN8.png">
+
+### • Diagrama de classes
+<img src="https://i.imgur.com/8Sa2FQa.png">
+
+ </section>
+
+<section id="C4 Model">
+
+## • 💻 C4 Model
+### • Diagrama de contexto
+<img src="https://i.imgur.com/RlkVSPw.png">
+
+### • Diagrama de container
+<img src="https://i.imgur.com/vLDZWvd.png">
+
+### • Diagrama de componentes
+
+#### • Diagrama de gerenciamento de estoque
+<img src="https://i.imgur.com/S66vfez.png">
+
+#### • Diagrama de gerenciamento de usuário
+<img src="https://i.imgur.com/zWpf7SG.png">
+
+#### • Diagrama de gerenciamento de cliente
+<img src="https://i.imgur.com/nnHOdh1.png">
+
+
+ </section>
+
+<section id="tecnologias">
+
+##  🛠️ Tecnologias Utilizadas
+
+Mencione as ferramentas que você usou para criar seu projeto
+
+* [NetBeans](https://netbeans.apache.org/download/index.html) - Ambiente de desenvolvimento integrado (IDE)
+* [MySQL](https://www.mysql.com/) - Banco de Dados
+* [JavaFX]() - Interface
+ </section>
+
+<section id="licença">
